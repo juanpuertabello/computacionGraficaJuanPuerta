@@ -1,2 +1,2 @@
-# computacionGraficaJuanPuerta
-Repositorio del curso de la u
+# Computer Graphics 2026 2 - Kelly Marin
+Computer Graphic repository
